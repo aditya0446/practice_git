@@ -7,6 +7,6 @@ def subtract(a,b):
 add = addition(10,20,30)
 print(f'addition : {add}')
 
-sub = subtract(30,10)
+sub = subtract(30,10,20)
 print(f'subtraction : {sub}')
 
