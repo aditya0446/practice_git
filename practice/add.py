@@ -4,7 +4,7 @@ def addition(a,b,c):
 def subtract(a,b):
     return a-b
 
-add = addition(10,20)
+add = addition(10,20,30)
 print(f'addition : {add}')
 
 sub = subtract(30,10)
